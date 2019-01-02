@@ -542,7 +542,8 @@
   },
   {
    "quote": {
-    "text": "The more man meditates upon good thoughts, the better will be his world and the world at large."
+    "text": "The more man meditates upon good thoughts, the better will be his world and the world at large.",
+    "text1":"जितना अधिक मनुष्य अच्छे विचारों पर ध्यान केंद्रित करेगा, उतना ही बेहतर होगा उसकी दुनिया और बड़े पैमाने पर दुनिया।"
    },
    "author": {
     "text": "Confucius"
@@ -550,7 +551,8 @@
   },
   {
    "quote": {
-    "text": "Perseverance is failing 19 times and succeeding the 20th."
+    "text": "Perseverance is failing 19 times and succeeding the 20th.",
+    "text1":""
    },
    "author": {
     "text": "Julie Andrews"
@@ -566,7 +568,8 @@
   },
   {
    "quote": {
-    "text": "Do your work with your whole heart, and you will succeed - there's so little competition."
+    "text": "Do your work with your whole heart, and you will succeed - there's so little competition.",
+    "text1":"अपने काम को पूरे मन से करें, और आप सफल होंगे"
    },
    "author": {
     "text": "Elbert Hubbard"
@@ -574,7 +577,8 @@
   },
   {
    "quote": {
-    "text": "Things do not happen. Things are made to happen."
+    "text": "Things do not happen. Things are made to happen.",
+    "text1":"चीजें खुद नहीं होतीं चीजें हमारे द्वारा होती हैं"
    },
    "author": {
     "text": "John F. Kennedy"
@@ -582,7 +586,8 @@
   },
   {
    "quote": {
-    "text": "Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice."
+    "text": "Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice.",
+    "text1":"यह आप पर निर्भर है कि आप दुखी हों या प्रेरित हों"
    },
    "author": {
     "text": "Wayne Dyer"
@@ -598,7 +603,8 @@
   },
   {
    "quote": {
-    "text": "Either I will find a way, or I will make one."
+    "text": "Either I will find a way, or I will make one.",
+    "text1":"या तो मुझे कोई रास्ता मिल जाएगा, या मैं एक बना दूंगा"
    },
    "author": {
     "text": "Philip Sidney"
@@ -606,7 +612,8 @@
   },
   {
    "quote": {
-    "text": "Never give in and never give up."
+    "text": "Never give in and never give up.",
+    "text1":"हार मत मानो और कभी हार मत मानो"
    },
    "author": {
     "text": "Hubert H. Humphrey"
@@ -614,7 +621,8 @@
   },
   {
    "quote": {
-    "text": "Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better."
+    "text": "Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.",
+    "text1":""
    },
    "author": {
     "text": "Samuel Beckett"
@@ -630,7 +638,8 @@
   },
   {
    "quote": {
-    "text": "Act as if what you do makes a difference. It does."
+    "text": "Act as if what you do makes a difference. It does.",
+    "text1":"ऐसा प्रतीत करो के तुम जो भी करो वो सबसे भिन्न है। "
    },
    "author": {
     "text": "William James"
@@ -638,7 +647,8 @@
   },
   {
    "quote": {
-    "text": "The will to succeed is important, but what's more important is the will to prepare."
+    "text": "The will to succeed is important, but what's more important is the will to prepare.",
+    "text1":"सफल होने के लिए इच्छाशक्ति महत्वपूर्ण है, लेकिन जो अधिक महत्वपूर्ण है वह है तैयारी करना"
    },
    "author": {
     "text": "Bobby Knight"
@@ -646,7 +656,8 @@
   },
   {
    "quote": {
-    "text": "The most effective way to do it, is to do it."
+    "text": "The most effective way to do it, is to do it.",
+    "text1":"कुछ करने के लिए सबसे प्रभावी तरीका यह है कि आपको ऐसा करना है"
    },
    "author": {
     "text": "Amelia Earhart"
@@ -654,7 +665,8 @@
   },
   {
    "quote": {
-    "text": "Expect problems and eat them for breakfast."
+    "text": "Expect problems and eat them for breakfast.",
+    "text1":"समस्याओं की अपेक्षा करें और क्योंकि समस्याएं किसी भी समय हो सकती हैं और उनसे निपटने के लिए तैयार रहें"
    },
    "author": {
     "text": "Alfred A. Montapert"
@@ -662,7 +674,8 @@
   },
   {
    "quote": {
-    "text": "Arriving at one goal is the starting point to another."
+    "text": "Arriving at one goal is the starting point to another.",
+    "text1":"एक लक्ष्य पर पहुंचना दूसरे के लिए शुरुआती बिंदु है"
    },
    "author": {
     "text": "John Dewey"
@@ -670,7 +683,8 @@
   },
   {
    "quote": {
-    "text": "If you don't like how things are, change it! You're not a tree."
+    "text": "If you don't like how things are, change it! You're not a tree.",
+    "text":"अगर आपको चीजें पसंद नहीं हैं, तो उन्हें बदल दें "
    },
    "author": {
     "text": "Jim Rohn"
@@ -678,7 +692,8 @@
   },
   {
    "quote": {
-    "text": "Do not wait to strike till the iron is hot; but make it hot by striking."
+    "text": "Do not wait to strike till the iron is hot; but make it hot by striking.",
+    "text1":"हिट करने के लिए, लोहे के गर्म होने तक इंतजार न करें लोहे पर वार करें और उसे गर्म करें"
    },
    "author": {
     "text": "William Butler Yeats"
@@ -694,7 +709,8 @@
   },
   {
    "quote": {
-    "text": "Do you want to know who you are? Don't ask. Act! Action will delineate and define you."
+    "text": "Do you want to know who you are? Don't ask. Act! Action will delineate and define you.",
+    "text1":"क्या आप जानना चाहते हैं कि आप कौन हैं? कुछ करो और वह प्रक्रिया तुम्हें बताएगी कि तुम कौन हो"
    },
    "author": {
     "text": "Thomas Jefferson"
@@ -702,7 +718,8 @@
   },
   {
    "quote": {
-    "text": "One way to keep momentum going is to have constantly greater goals."
+    "text": "One way to keep momentum going is to have constantly greater goals.",
+    "text1":"गति को जारी रखने का एक तरीका है कि आप अपने लक्ष्य को और अधिक बढ़ाएँ"
    },
    "author": {
     "text": "Michael Korda"
@@ -710,7 +727,8 @@
   },
   {
    "quote": {
-    "text": "Motivation is the art of getting people to do what you want them to do because they want to do it."
+    "text": "Motivation is the art of getting people to do what you want them to do because they want to do it.",
+    "text1":""
    },
    "author": {
     "text": "Dwight D. Eisenhower"
@@ -718,7 +736,8 @@
   },
   {
    "quote": {
-    "text": "A goal is a dream with a deadline."
+    "text": "A goal is a dream with a deadline.",
+    "text1": "एक लक्ष्य एक समय सीमा के साथ एक सपना है"
    },
    "author": {
     "text": "Napoleon Hill"
@@ -726,7 +745,8 @@
   },
   {
    "quote": {
-    "text": "No bird soars too high if he soars with his own wings."
+    "text": "No bird soars too high if he soars with his own wings.",
+    "text1":""
    },
    "author": {
     "text": "William Blake"
@@ -742,7 +762,8 @@
   },
   {
    "quote": {
-    "text": "You will never win if you never begin."
+    "text": "You will never win if you never begin.",
+    "text1":"यदि आप कभी भी शुरू नहीं करेंगे तो आप कभी नहीं जीत पाएंगे"
    },
    "author": {
     "text": "Helen Rowland"
@@ -750,7 +771,8 @@
   },
   {
    "quote": {
-    "text": "Follow your dreams, work hard, practice and persevere. Make sure you eat a variety of foods, get plenty of exercise and maintain a healthy lifestyle."
+    "text": "Follow your dreams, work hard, practice and persevere. Make sure you eat a variety of foods, get plenty of exercise and maintain a healthy lifestyle.",
+    "text1":"अपने सपनों का पालन करें, कड़ी मेहनत करें, अभ्यास करें और दृढ़ रहें। सुनिश्चित करें कि आप विभिन्न प्रकार के खाद्य पदार्थ खाते हैं, भरपूर व्यायाम करें और स्वस्थ जीवनशैली बनाए रखें"
    },
    "author": {
     "text": "Sasha Cohen"
@@ -758,7 +780,8 @@
   },
   {
    "quote": {
-    "text": "You need to overcome the tug of people against you as you reach for high goals."
+    "text": "You need to overcome the tug of people against you as you reach for high goals.",
+    "text1":"जैसे ही आप उच्च लक्ष्यों के लिए पहुँचते हैं, आपको अपने विरुद्ध लोगों की छटपटाहट को दूर करना होगा"
    },
    "author": {
     "text": "George S. Patton"
@@ -766,7 +789,8 @@
   },
   {
    "quote": {
-    "text": "Do something wonderful, people may imitate it."
+    "text": "Do something wonderful, people may imitate it.",
+    "text1":"कुछ अद्भुत करो, लोग इसका अनुकरण कर सकते हैं"
    },
    "author": {
     "text": "Albert Schweitzer"
@@ -774,7 +798,8 @@
   },
   {
    "quote": {
-    "text": "It is very important to know who you are. To make decisions. To show who you are."
+    "text": "It is very important to know who you are. To make decisions. To show who you are.",
+    "text1":"यह जानना बहुत जरूरी है कि आप कौन हैं। निर्णय करने के लिए। यह दिखाने के लिए कि आप कौन हैं"
    },
    "author": {
     "text": "Malala Yousafzai"
@@ -782,7 +807,8 @@
   },
   {
    "quote": {
-    "text": "The people who influence you are the people who believe in you."
+    "text": "The people who influence you are the people who believe in you.",
+    "text1":"आपको प्रभावित करने वाले लोग आप पर विश्वास करने वाले लोग हैं"
    },
    "author": {
     "text": "Henry Drummond"
@@ -790,7 +816,8 @@
   },
   {
    "quote": {
-    "text": "A good plan violently executed now is better than a perfect plan executed next week."
+    "text": "A good plan violently executed now is better than a perfect plan executed next week.",
+    "text1":""
    },
    "author": {
     "text": "George S. Patton"
@@ -798,7 +825,8 @@
   },
   {
    "quote": {
-    "text": "Go for it now. The future is promised to no one."
+    "text": "Go for it now. The future is promised to no one.",
+    "text1":"आपको इसे तुरंत करना चाहिए भविष्य के वादों को कोई पूरा नहीं करता"
    },
    "author": {
     "text": "Wayne Dyer"
@@ -806,7 +834,8 @@
   },
   {
    "quote": {
-    "text": "I can, therefore I am."
+    "text": "I can, therefore I am.",
+    "text1":"मैं कर सकता हूं, इसलिए मैं हूं।"
    },
    "author": {
     "text": "Simone Weil"
@@ -814,7 +843,8 @@
   },
   {
    "quote": {
-    "text": "The dog that trots about finds a bone."
+    "text": "The dog that trots about finds a bone.",
+    "text1":""
    },
    "author": {
     "text": "Golda Meir"
@@ -822,7 +852,8 @@
   },
   {
    "quote": {
-    "text": "You simply have to put one foot in front of the other and keep going. Put blinders on and plow right ahead."
+    "text": "You simply have to put one foot in front of the other and keep going. Put blinders on and plow right ahead.",
+    "text1":"आपको बस एक पैर दूसरे के सामने रखना है और चलते रहना है। "
    },
    "author": {
     "text": "George Lucas"
@@ -830,7 +861,8 @@
   },
   {
    "quote": {
-    "text": "You just can't beat the person who never gives up."
+    "text": "You just can't beat the person who never gives up.",
+    "text1":"आप सिर्फ उस व्यक्ति को नहीं हरा सकते जो कभी हार नहीं मानता"
    },
    "author": {
     "text": "Babe Ruth"
@@ -838,7 +870,8 @@
   },
   {
    "quote": {
-    "text": "True happiness involves the full use of one's power and talents."
+    "text": "True happiness involves the full use of one's power and talents.",
+    "text1":"सच्ची खुशी में किसी की शक्ति और प्रतिभा का पूर्ण उपयोग शामिल है"
    },
    "author": {
     "text": "John W. Gardner"
@@ -846,7 +879,8 @@
   },
   {
    "quote": {
-    "text": "Never complain and never explain."
+    "text": "Never complain and never explain.",
+    "text1":"कभी शिकायत मत करो और कभी मत समझाओ"
    },
    "author": {
     "text": "Benjamin Disraeli"
@@ -854,7 +888,8 @@
   },
   {
    "quote": {
-    "text": "If you want to succeed you should strike out on new paths, rather than travel the worn paths of accepted success."
+    "text": "If you want to succeed you should strike out on new paths, rather than travel the worn paths of accepted success.",
+    "text1":"यदि आप सफल होना चाहते हैं तो आपको स्वीकार किए गए सफलता के पहने हुए मार्गों की यात्रा करने के बजाय नए रास्तों पर आगे बढ़ना चाहिए"
    },
    "author": {
     "text": "John D. Rockefeller"
@@ -862,7 +897,8 @@
   },
   {
    "quote": {
-    "text": "After a storm comes a calm."
+    "text": "After a storm comes a calm.",
+    "text1":"तूफान के बाद शांति आती है।"
    },
    "author": {
     "text": "Matthew Henry"
@@ -870,7 +906,8 @@
   },
   {
    "quote": {
-    "text": "You can't build a reputation on what you are going to do."
+    "text": "You can't build a reputation on what you are going to do.",
+    "text1":"आप जो करने जा रहे हैं उस पर आप प्रतिष्ठा नहीं बना सकते।"
    },
    "author": {
     "text": "Henry Ford"
@@ -886,7 +923,8 @@
   },
   {
    "quote": {
-    "text": "There's a way to do it better - find it."
+    "text": "There's a way to do it better - find it.",
+    "text1":"इसे बेहतर करने का एक तरीका है - इसे खोजें।"
    },
    "author": {
     "text": "Thomas A. Edison"
@@ -894,7 +932,8 @@
   },
   {
    "quote": {
-    "text": "If you think you can do it, you can."
+    "text": "If you think you can do it, you can.",
+    "text1":"अगर आपको लगता है कि आप इसे कर सकते हैं, तो आप कर सकते हैं"
    },
    "author": {
     "text": "John Burroughs"
@@ -902,7 +941,8 @@
   },
   {
    "quote": {
-    "text": "Follow your inner moonlight; don't hide the madness."
+    "text": "Follow your inner moonlight; don't hide the madness.",
+    "text1":"अपने भीतर की चांदनी का अनुसरण करो; पागलपन मत छिपाओ"
    },
    "author": {
     "text": "Allen Ginsberg"
@@ -910,7 +950,8 @@
   },
   {
    "quote": {
-    "text": "You can never quit. Winners never quit, and quitters never win."
+    "text": "You can never quit. Winners never quit, and quitters never win.",
+    "text1":"आप कभी नहीं छोड़ सकते। विजेता कभी हार नहीं मानते और हार माननेवाले कभी नहीं जीतते"
    },
    "author": {
     "text": "Ted Turner"
@@ -918,7 +959,8 @@
   },
   {
    "quote": {
-    "text": "Learn from the past, set vivid, detailed goals for the future, and live in the only moment of time over which you have any control: now."
+    "text": "Learn from the past, set vivid, detailed goals for the future, and live in the only moment of time over which you have any control: now.",
+    "text1":"अतीत से सीखें, भविष्य के लिए विस्तृत लक्ष्य निर्धारित करें, और समय के उस एकमात्र क्षण में रहें जिस पर आपका कोई नियंत्रण है"
    },
    "author": {
     "text": "Denis Waitley"
@@ -926,7 +968,8 @@
   },
   {
    "quote": {
-    "text": "Every exit is an entry somewhere else."
+    "text": "Every exit is an entry somewhere else.",
+    "text1":""
    },
    "author": {
     "text": "Tom Stoppard"
