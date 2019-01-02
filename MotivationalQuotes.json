@@ -2,7 +2,8 @@
  "MotivationalQuotes": [
   {
    "quote": {
-    "text": "Only I can change my life. No one can do it for me."
+    "text": "Only I can change my life. No one can do it for me.",
+    "text1": "केवल मैं ही अपना जीवन बदल सकता हूं। कोइ और मेरा जीवन नहीं बदल सकता।"
    },
    "author": {
     "text": "Carol Burnett"
@@ -10,7 +11,8 @@
   },
   {
    "quote": {
-    "text": "Good, better, best. Never let it rest. 'Til your good is better and your better is best."
+    "text": "Good, better, best. Never let it rest. 'Til your good is better and your better is best.",
+    "text1" : ""
    },
    "author": {
     "text": "St. Jerome"
@@ -18,7 +20,8 @@
   },
   {
    "quote": {
-    "text": "Life is 10% what happens to you and 90% how you react to it."
+    "text": "Life is 10% what happens to you and 90% how you react to it.",
+    "text1":"जीवन 10 प्रतिशत है जो आपके साथ होता है और 90 प्रतिशत आप इस पर कैसे प्रतिक्रिया करते हैं।"
    },
    "author": {
     "text": "Charles R. Swindoll"
@@ -26,7 +29,8 @@
   },
   {
    "quote": {
-    "text": "Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence."
+    "text": "Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.",
+    "text1": "आशावाद वह विश्वास है जो आपको उपलब्धि की ओर ले जाता है। आशा और विश्वास के बिना कुछ भी नहीं किया जा सकता है"
    },
    "author": {
     "text": "Helen Keller"
@@ -34,7 +38,8 @@
   },
   {
    "quote": {
-    "text": "Change your life today. Don't gamble on the future, act now, without delay."
+    "text": "Change your life today. Don't gamble on the future, act now, without delay.",
+    "text1":"आज ही अपना जीवन बदल दें भविष्य पर जुआ न खेलो"
    },
    "author": {
     "text": "Simone de Beauvoir"
@@ -42,7 +47,8 @@
   },
   {
    "quote": {
-    "text": "With the new day comes new strength and new thoughts."
+    "text": "With the new day comes new strength and new thoughts.",
+    "text1": "नए दिन के साथ नई ताकत और नए विचार आते हैं"
    },
    "author": {
     "text": "Eleanor Roosevelt"
@@ -50,7 +56,8 @@
   },
   {
    "quote": {
-    "text": "Failure will never overtake me if my determination to succeed is strong enough."
+    "text": "Failure will never overtake me if my determination to succeed is strong enough.",
+    "text1": "असफलता मुझे कभी नहीं पछाड़ेगी यदि सफल होने का मेरा संकल्प काफी मजबूत है"
    },
    "author": {
     "text": "Og Mandino"
@@ -58,7 +65,8 @@
   },
   {
    "quote": {
-    "text": "The past cannot be changed. The future is yet in your power."
+    "text": "The past cannot be changed. The future is yet in your power.",
+    "text1":"अतीत को बदला नहीं जा सकता। लेकिन यह मत भूलो कि भविष्य आपके हाथ में है"
    },
    "author": {
     "text": "Unknown"
@@ -66,7 +74,8 @@
   },
   {
    "quote": {
-    "text": "It always seems impossible until it's done."
+    "text": "It always seems impossible until it's done.",
+    "text1" :"काम हमेशा असंभव लगता है जब तक वह किया नहीं जाता है"
    },
    "author": {
     "text": "Nelson Mandela"
@@ -82,7 +91,8 @@
   },
   {
    "quote": {
-    "text": "It does not matter how slowly you go as long as you do not stop."
+    "text": "It does not matter how slowly you go as long as you do not stop.",
+    "text1":"इससे कोई फर्क नहीं पड़ता कि आप कितने धीरे चले जब तक आप रुक नहीं जाते"
    },
    "author": {
     "text": "Confucius"
@@ -90,7 +100,8 @@
   },
   {
    "quote": {
-    "text": "Set your goals high, and don't stop till you get there."
+    "text": "Set your goals high, and don't stop till you get there.",
+    "text1":"अपने लक्ष्यों को ऊंचा सेट करें, और जब तक आप वहां नहीं पहुंचते तब तक रुकें नहीं"
    },
    "author": {
     "text": "Bo Jackson"
@@ -98,7 +109,8 @@
   },
   {
    "quote": {
-    "text": "You can't cross the sea merely by standing and staring at the water."
+    "text": "You can't cross the sea merely by standing and staring at the water.",
+    "text1" : "आप केवल खड़े होकर और पानी में घूरकर समुद्र को पार नहीं कर सकते"
    },
    "author": {
     "text": "Rabindranath Tagore"
@@ -106,7 +118,8 @@
   },
   {
    "quote": {
-    "text": "Always do your best. What you plant now, you will harvest later."
+    "text": "Always do your best. What you plant now, you will harvest later.",
+    "text1":"हमेशा अपना सबसे बेहतरीन करो। जो आप अभी लगायेंगें, वहीँ आप बाद में काटेंगें"
    },
    "author": {
     "text": "Og Mandino"
@@ -114,7 +127,8 @@
   },
   {
    "quote": {
-    "text": "We should not give up and we should not allow the problem to defeat us."
+    "text": "We should not give up and we should not allow the problem to defeat us.",
+    "text1":"हमें हार नहीं माननी चाहिए और हमें समस्या को हमें हराने की अनुमति नहीं देनी चाहिए"
    },
    "author": {
     "text": "A. P. J. Abdul Kalam"
@@ -122,7 +136,8 @@
   },
   {
    "quote": {
-    "text": "Your talent is God's gift to you. What you do with it is your gift back to God."
+    "text": "Your talent is God's gift to you. What you do with it is your gift back to God.",
+     "text1":"आपकी प्रतिभा आपके लिए भगवान का उपहार है। आप इसके साथ क्या करते हैं, यह ईश्वर को आपका उपहार है"
    },
    "author": {
     "text": "Leo Buscaglia"
@@ -130,7 +145,8 @@
   },
   {
    "quote": {
-    "text": "If you can dream it, you can do it."
+    "text": "If you can dream it, you can do it.",
+     "text1":"अगर आप यह सपना देख सकते हैं, तो आप यह कर सकते हैं"
    },
    "author": {
     "text": "Walt Disney"
@@ -138,7 +154,8 @@
   },
   {
    "quote": {
-    "text": "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time."
+    "text": "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.",
+     "text1":"हमारी सबसे बड़ी कमजोरी हार मानने में निहित है। अगर हम सफल होना चाहते हैं तो हमें एक बार और कोशिश करनी चाहिए"
    },
    "author": {
     "text": "Thomas A. Edison"
@@ -146,7 +163,8 @@
   },
   {
    "quote": {
-    "text": "Problems are not stop signs, they are guidelines."
+    "text": "Problems are not stop signs, they are guidelines.",
+     "text1":"समस्याएं आपको रोकती नहीं हैं, आपके जीवन की समस्याएं आपको बताती हैं कि आपको किस तरह जाना चाहिए"
    },
    "author": {
     "text": "Robert H. Schuller"
@@ -154,7 +172,8 @@
   },
   {
    "quote": {
-    "text": "Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy."
+    "text": "Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy.",
+    "text1": "अपने आप पर यकीन रखो! अपनी क्षमताओं पर विश्वास रखो! अपनी खुद की शक्तियों में एक विनम्र लेकिन उचित आत्मविश्वास के बिना आप सफल या खुश नहीं हो सकते"
    },
    "author": {
     "text": "Norman Vincent Peale"
@@ -162,7 +181,8 @@
   },
   {
    "quote": {
-    "text": "If you want to conquer fear, don't sit home and think about it. Go out and get busy."
+    "text": "If you want to conquer fear, don't sit home and think about it. Go out and get busy.",
+     "text1":"अगर आप डर पर विजय पाना चाहते हैं, तो घर बैठकर इस बारे में न सोचें। बाहर जाओ और व्यस्त हो जाओ"
    },
    "author": {
     "text": "Dale Carnegie"
@@ -170,7 +190,8 @@
   },
   {
    "quote": {
-    "text": "A creative man is motivated by the desire to achieve, not by the desire to beat others."
+    "text": "A creative man is motivated by the desire to achieve, not by the desire to beat others.",
+     "text1":"एक आदमी हासिल करने की इच्छा से प्रेरित होता है, न कि दूसरों को हराने की इच्छा से।"
    },
    "author": {
     "text": "Ayn Rand"
@@ -178,7 +199,8 @@
   },
   {
    "quote": {
-    "text": "I'd rather attempt to do something great and fail than to attempt to do nothing and succeed."
+    "text": "I'd rather attempt to do something great and fail than to attempt to do nothing and succeed.",
+     "text1":"मैं इसके बजाय कुछ महान करने का प्रयास करूँगा और कुछ न करने और सफल होने का प्रयास करने के बजाय असफल होना चाहूंगा।"
    },
    "author": {
     "text": "Robert H. Schuller"
@@ -186,7 +208,8 @@
   },
   {
    "quote": {
-    "text": "Keep your eyes on the stars, and your feet on the ground."
+    "text": "Keep your eyes on the stars, and your feet on the ground.",
+     "text1":"अपनी नज़रें सितारों पर, और अपने पैर ज़मीन पर रखें"
    },
    "author": {
     "text": "Theodore Roosevelt"
@@ -194,7 +217,8 @@
   },
   {
    "quote": {
-    "text": "Accept the challenges so that you can feel the exhilaration of victory."
+    "text": "Accept the challenges so that you can feel the exhilaration of victory.",
+     "text1":""
    },
    "author": {
     "text": "George S. Patton"
@@ -202,7 +226,9 @@
   },
   {
    "quote": {
-    "text": "If you fell down yesterday, stand up today."
+    "text": "If you fell down yesterday, stand up today.",
+     "text1":"चुनौतियों को स्वीकार करें ताकि आप जीत की भावना को महसूस कर सकें
+"
    },
    "author": {
     "text": "H. G. Wells"
@@ -210,7 +236,8 @@
   },
   {
    "quote": {
-    "text": "The secret of getting ahead is getting started."
+    "text": "The secret of getting ahead is getting started.",
+     "text1":"यदि आप शुरू कर सकते हैं तो आप सफल हो सकते हैं"
    },
    "author": {
     "text": "Mark Twain"
@@ -218,7 +245,8 @@
   },
   {
    "quote": {
-    "text": "Without hard work, nothing grows but weeds."
+    "text": "Without hard work, nothing grows but weeds.",
+     "text1":"कड़ी मेहनत के बिना, मातम के अलावा कुछ भी नहीं बढ़ता है"
    },
    "author": {
     "text": "Gordon B. Hinckley"
@@ -226,7 +254,8 @@
   },
   {
    "quote": {
-    "text": "Quality is not an act, it is a habit."
+    "text": "Quality is not an act, it is a habit.",
+     "text1":"गुणवत्ता एक अधिनियम नहीं है, यह एक आदत है"
    },
    "author": {
     "text": "Aristotle"
@@ -234,7 +263,8 @@
   },
   {
    "quote": {
-    "text": "Setting goals is the first step in turning the invisible into the visible."
+    "text": "Setting goals is the first step in turning the invisible into the visible.",
+     "text1":"लक्ष्य निर्धारित करना आपके सपनों तक पहुँचने का पहला कदम है"
    },
    "author": {
     "text": "Tony Robbins"
@@ -266,7 +296,8 @@
   },
   {
    "quote": {
-    "text": "If you're going through hell, keep going."
+    "text": "If you're going through hell, keep going.",
+     "text1":"तुम नर्क से जा रहे हो, चलते रहो"
    },
    "author": {
     "text": "Winston Churchill"
@@ -274,7 +305,8 @@
   },
   {
    "quote": {
-    "text": "Be kind whenever possible. It is always possible."
+    "text": "Be kind whenever possible. It is always possible.",
+     "text1":"जब भी संभव हो दयालु बनें। यह हमेशा संभव है"
    },
    "author": {
     "text": "Dalai Lama"
@@ -282,7 +314,8 @@
   },
   {
    "quote": {
-    "text": "What you do today can improve all your tomorrows."
+    "text": "What good things you do today can improve all your tomorrows.",
+     "text1":"आज आप जो कुछ भी करते हैं वह आपके आने वाले दिनों में सुधार कर सकता है।"
    },
    "author": {
     "text": "Ralph Marston"
@@ -290,7 +323,8 @@
   },
   {
    "quote": {
-    "text": "Opportunity does not knock, it presents itself when you beat down the door."
+    "text": "Opportunity does not knock, it presents itself when you beat down the door.",
+     "text1":"अवसर दस्तक नहीं देता है, यह खुद को प्रस्तुत करता है जब आप दरवाजा खोलते हैं"
    },
    "author": {
     "text": "Kyle Chandler"
@@ -298,7 +332,8 @@
   },
   {
    "quote": {
-    "text": "The key is to keep company only with people who uplift you, whose presence calls forth your best."
+    "text": "The key is to keep company only with people who uplift you, whose presence calls forth your best.",
+     "text1":"आपको केवल उन लोगों की कंपनी लेनी चाहिए जो आपका उत्थान करते हैं, जिनकी मौजूदगी आपका सबसे अच्छा काम करती है"
    },
    "author": {
     "text": "Epictetus"
@@ -306,7 +341,8 @@
   },
   {
    "quote": {
-    "text": "Don't watch the clock; do what it does. Keep going."
+    "text": "Don't watch the clock; do what it does. Keep going.",
+     "text1":"केवल घड़ी ही न देखें। आपको घड़ी की तरह आगे बढ़ना चाहिए, जो कभी नहीं रुकती है"
    },
    "author": {
     "text": "Sam Levenson"
@@ -314,7 +350,8 @@
   },
   {
    "quote": {
-    "text": "We may encounter many defeats but we must not be defeated."
+    "text": "We may encounter many defeats but we must not be defeated.",
+     "text1":"हम कई हार का सामना कर सकते हैं लेकिन हमें पराजित नहीं होना चाहिए"
    },
    "author": {
     "text": "Maya Angelou"
@@ -322,7 +359,8 @@
   },
   {
    "quote": {
-    "text": "Start where you are. Use what you have. Do what you can."
+    "text": "Start where you are. Use what you have. Do what you can.",
+     "text1":"तुम जहां हो वहीं शुरू करो। जो तुम्हारे पास है, उसका उपयोग करो। जो तुम कर सकतो हो वो करो"
    },
    "author": {
     "text": "Arthur Ashe"
@@ -330,7 +368,8 @@
   },
   {
    "quote": {
-    "text": "Either you run the day or the day runs you."
+    "text": "Either you run the day or the day runs you.",
+     "text1":"या तो आप दिन को चलाते हैं या दिन आपको चलाता है"
    },
    "author": {
     "text": "Jim Rohn"
@@ -346,7 +385,8 @@
   },
   {
    "quote": {
-    "text": "There is only one corner of the universe you can be certain of improving, and that's your own self."
+    "text": "There is only one corner of the universe you can be certain of improving, and that's your own self.",
+     "text1":"ब्रह्मांड का केवल एक ही कोना है जिसे आप सुधारना सुनिश्चित कर सकते हैं, और वह है स्वयं"
    },
    "author": {
     "text": "Aldous Huxley"
@@ -354,7 +394,8 @@
   },
   {
    "quote": {
-    "text": "When something is important enough, you do it even if the odds are not in your favor."
+    "text": "When something is important enough, you do it even if the odds are not in your favor.",
+     "text1":"जब कोई चीज पर्याप्त रूप से महत्वपूर्ण होती है, तो आप उसे करते हैं, भले ही कोई आपके पक्ष में न हो"
    },
    "author": {
     "text": "Elon Musk"
@@ -362,7 +403,8 @@
   },
   {
    "quote": {
-    "text": "Perseverance is not a long race; it is many short races one after the other."
+    "text": "Perseverance is not a long race; it is many short races one after the other.",
+     "text1":"दृढ़ता एक लंबी दौड़ नहीं है; यह एक के बाद एक कई छोटी दौड़ें हैं"
    },
    "author": {
     "text": "Walter Elliot"
@@ -370,7 +412,8 @@
   },
   {
    "quote": {
-    "text": "Aim for the moon. If you miss, you may hit a star."
+    "text": "Aim for the moon. If you miss, you may hit a star.",
+     "text1":"चाँद के लिए निशाना लगाओ। अगर आप चूक गए, तो आप एक स्टार को मार सकते हैं"
    },
    "author": {
     "text": "W. Clement Stone"
@@ -378,7 +421,8 @@
   },
   {
    "quote": {
-    "text": "Well done is better than well said."
+    "text": "Well done is better than well said.",
+     "text1":"करनी कथनी से बड़ी होती है"
    },
    "author": {
     "text": "Benjamin Franklin"
@@ -386,7 +430,8 @@
   },
   {
    "quote": {
-    "text": "In order to succeed, we must first believe that we can."
+    "text": "In order to succeed, we must first believe that we can.",
+     "text1":"सफल होने के लिए, हमें पहले विश्वास करना चाहिए कि हम कर सकते हैं।"
    },
    "author": {
     "text": "Nikos Kazantzakis"
@@ -394,7 +439,8 @@
   },
   {
    "quote": {
-    "text": "Never, never, never give up."
+    "text": "Never, never, never give up.",
+     "text1":"कभी हार मत मानो"
    },
    "author": {
     "text": "Winston Churchill"
@@ -402,7 +448,8 @@
   },
   {
    "quote": {
-    "text": "The way to get started is to quit talking and begin doing."
+    "text": "The way to get started is to quit talking and begin doing.",
+     "text1":"शुरुआत करने का तरीका है कि आप बात करना छोड़ दें और करना शुरू करें।"
    },
    "author": {
     "text": "Walt Disney"
@@ -410,7 +457,8 @@
   },
   {
    "quote": {
-    "text": "Begin to be now what you will be hereafter."
+    "text": "Begin to be now what you will be hereafter.",
+     "text1":"अब से शुरू करें कि आप इसके बाद क्या होंगे।"
    },
    "author": {
     "text": "William James"
@@ -418,7 +466,8 @@
   },
   {
    "quote": {
-    "text": "The ultimate aim of the ego is not to see something, but to be something."
+    "text": "The ultimate aim of the ego is not to see something, but to be something.",
+     "text1":"अहंकार का अंतिम उद्देश्य कुछ देखना नहीं है, बल्कि कुछ होना है"
    },
    "author": {
     "text": "Muhammad Iqbal"
@@ -426,7 +475,8 @@
   },
   {
    "quote": {
-    "text": "Knowing is not enough; we must apply. Willing is not enough; we must do."
+    "text": "Knowing is not enough; we must apply. Willing is not enough; we must do.",
+     "text1":"जानना पर्याप्त नहीं है, हमें करना चाहिए यदि आप कुछ हासिल करना चाहते हैं, तो आपको करना होगा"
    },
    "author": {
     "text": "Johann Wolfgang von Goethe"
@@ -434,7 +484,8 @@
   },
   {
    "quote": {
-    "text": "The harder the conflict, the more glorious the triumph."
+    "text": "The harder the conflict, the more glorious the triumph.",
+    "text1":"संघर्ष जितना कठिन होगा, विजय उतनी ही शानदार होगी।"
    },
    "author": {
     "text": "Thomas Paine"
@@ -474,7 +525,8 @@
   },
   {
    "quote": {
-    "text": "By failing to prepare, you are preparing to fail."
+    "text": "By failing to prepare, you are preparing to fail.",
+    "text1": "तैयारी करने में असफल होने से, आप असफल होने की तैयारी कर रहे हैं"
    },
    "author": {
     "text": "Benjamin Franklin"
@@ -482,7 +534,8 @@
   },
   {
    "quote": {
-    "text": "Never give up, for that is just the place and time that the tide will turn."
+    "text": "Never give up, for that is just the place and time that the tide will turn.",
+    "text1":""
    },
    "author": {
     "text": "Harriet Beecher Stowe"
