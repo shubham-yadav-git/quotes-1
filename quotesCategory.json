@@ -1,0 +1,396 @@
+{
+  "categoryList" : [
+ {
+  "title": "Age Quotes",
+  "background": "https://images.pexels.com/photos/696407/pexels-photo-696407.jpeg"
+ },
+ {
+  "title": "Alone Quotes",
+  "background": "https://images.freeimages.com/images/large-previews/e55/alone-1431667.jpg"
+ },
+ {
+  "title": "Amazing Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/1a8/nature-9-1469815.jpg"
+ },
+ {
+  "title": "Anger Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/ece/burning-old-memories-3-1193901.jpg"
+ },
+ {
+  "title": "Anniversary Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/b11/teddy-loves-you-1310911.jpg"
+ },
+ {
+  "title": "Art Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/cec/nature-1384554.jpg"
+ },
+ {
+  "title": "Attitude Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/ab2/celebration-1578251.jpg"
+ },
+ {
+  "title": "Beauty Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/5bc/beautiful-butterflies-3-1242381.jpg"
+ },
+ {
+  "title": "Birthday Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/36a/from-a-celebration-of-fanny-s-97-years-on-this-earth-1534190.jpg"
+ },
+ {
+  "title": "Brain Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/204/brain-001-1172516.jpg"
+ },
+ {
+  "title": "Business Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/8fc/business-sunset-1172531.jpg"
+ },
+ {
+  "title": "Change Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/b8e/texture-3-1190038.jpg"
+ },
+ {
+  "title": "Christmas Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/757/christmas-card-1171294.jpg"
+ },
+ {
+  "title": "Cool Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/6e4/cool-big-cats-1-1311484.jpg"
+ },
+ {
+  "title": "Courage Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/470/energy-1175725.jpg"
+ },
+ {
+  "title": "Dad Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/3b2/hand-holding-1-1309025.jpg"
+ },
+ {
+  "title": "Dating Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/091/look-at-the-futur-3-1309342.jpg"
+ },
+ {
+  "title": "Death Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/404/rose-of-death-1193521.jpg"
+ },
+ {
+  "title": "Design Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/225/iron-design-1192638.jpg"
+ },
+ {
+  "title": "Dreams Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/8c2/dreams-in-pi-365-3-1416-1-1315109.jpg"
+ },
+ {
+  "title": "Education Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/da0/library-of-light-1219981.jpg"
+ },
+ {
+  "title": "Environmental Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/b62/day-is-done-1385508.jpg"
+ },
+ {
+  "title": "Equality Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/8e1/the-sound-1159488.jpg"
+ },
+ {
+  "title": "Experience Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/2f8/light-effects-10-1514922.jpg"
+ },
+ {
+  "title": "Failure Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/278/break-in-the-wall-1185086.jpg"
+ },
+ {
+  "title": "Faith Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/9ff/shout-1184086.jpg"
+ },
+ {
+  "title": "Family Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/a14/happy-family-1-1403734.jpg"
+ },
+ {
+  "title": "Famous Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/b14/bad-moon-rising-1315653.jpg"
+ },
+ {
+  "title": "Fear Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/b14/bad-moon-rising-1315653.jpg"
+ },
+ {
+  "title": "Fitness Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/95c/fitness-series-3-1467454.jpg"
+ },
+ {
+  "title": "Food Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/42b/chinees-food-3-1323899.jpg"
+ },
+ {
+  "title": "Forgiveness Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/a36/nature-1361028.jpg"
+ },
+ {
+  "title": "Freedom Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/674/freedom-1314475.jpg"
+ },
+ {
+  "title": "Friendship Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/457/friendship-1309415.jpg"
+ },
+ {
+  "title": "Funny Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/d81/dog-eated-funny-faces-3-1189164.jpg"
+ },
+ {
+  "title": "Future Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/fbf/the-future-1409802.jpg"
+ },
+ {
+  "title": "Gardening Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/471/english-country-garden-1529106.jpg"
+ },
+ {
+  "title": "God Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/9b7/nature-1310996.jpg"
+ },
+ {
+  "title": "Good Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/2c5/nature-1568393.jpg"
+ },
+ {
+  "title": "Great Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/a4f/nature-1547119.jpg"
+ },
+ {
+  "title": "Happiness Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/8a7/happy-sunrise-1375801.jpg"
+ },
+ {
+  "title": "Health Quotes",
+  "background": "https://images.pexels.com/photos/248139/pexels-photo-248139.jpeg"
+ },
+ {
+  "title": "History Quotes",
+  "background": "https://images.pexels.com/photos/161798/stonehenge-architecture-history-monolith-161798.jpeg"
+ },
+ {
+  "title": "Home Quotes",
+  "background": "https://images.pexels.com/photos/259588/pexels-photo-259588.jpeg"
+ },
+ {
+  "title": "Hope Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/b4a/nature-1310984.jpg"
+ },
+ {
+  "title": "Humor Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/7ad/nature-1325470.jpg"
+ },
+ {
+  "title": "Imagination Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/d90/nature-1378680.jpg"
+ },
+ {
+  "title": "Independence Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/091/nature-1189333.jpg"
+ },
+ {
+  "title": "Inspirational Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/3b4/nature-misty-1369358.jpg"
+ },
+ {
+  "title": "Intelligence Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/a00/natural-photos-1186235.jpg"
+ },
+ {
+  "title": "Jealousy Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/565/nature-1174088.jpg"
+ },
+ {
+  "title": "Knowledge Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/179/nature-1378676.jpg"
+ },
+ {
+  "title": "Leadership Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/391/nature-1195941.jpg"
+ },
+ {
+  "title": "Learning Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/27b/nature-1392006.jpg"
+ },
+ {
+  "title": "Life Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/705/natural-twirl-1532509.jpg"
+ },
+ {
+  "title": "Love Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/b11/teddy-loves-you-1310911.jpg"
+ },
+ {
+  "title": "Marriage Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/993/nature-1172887.jpg"
+ },
+ {
+  "title": "Medical Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/15e/nature-1397375.jpg"
+ },
+ {
+  "title": "Mom Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/535/natural-wonders-1400924.jpg"
+ },
+ {
+  "title": "Money Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/986/natural-curl-1314512.jpg"
+ },
+ {
+  "title": "Morning Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/4ca/colours-of-nature-1173208.jpg"
+ },
+ {
+  "title": "Mothersday Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/ce9/natural-frame-1439402.jpg"
+ },
+ {
+  "title": "Motivational Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/254/the-perfection-of-nature-1180807.jpg"
+ },
+ {
+  "title": "Movingon Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/0ce/nature-1392046.jpg"
+ },
+ {
+  "title": "Nature Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/d40/natural-paper-3-1186495.jpg"
+ },
+ {
+  "title": "Newyears Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/641/nature-1398840.jpg"
+ },
+ {
+  "title": "Parenting Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/9f7/nature-1390669.jpg"
+ },
+ {
+  "title": "Patience Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/a6b/nature-1310989.jpg"
+ },
+ {
+  "title": "Patriotism Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/105/100-natural-1384751.jpg"
+ },
+ {
+  "title": "Peace Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/f5a/natures-force-1224382.jpg"
+ },
+ {
+  "title": "Pet Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/aba/nature-1185509.jpg"
+ },
+ {
+  "title": "Positive Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/d67/experimenting-with-nature-1547377.jpg"
+ },
+ {
+  "title": "Power Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/5e5/dark-ripples-1161904.jpg"
+ },
+ {
+  "title": "Relationship Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/f71/100-natural-1384746.jpg"
+ },
+ {
+  "title": "Religion Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/b84/natural-2-1192779.jpg"
+ },
+ {
+  "title": "Respect Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/afc/nature-1388298.jpg"
+ },
+ {
+  "title": "Romantic Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/613/nature-1380061.jpg"
+ },
+ {
+  "title": "Sad Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/1f9/sad-silhouette-1429626.jpg"
+ },
+ {
+  "title": "Science Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/54d/titration-1571769.jpg"
+ },
+ {
+  "title": "Smile Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/dc3/smiling-with-my-blue-necktie-5-1571243.jpg"
+ },
+ {
+  "title": "Society Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/237/city-at-night-1223753.jpg"
+ },
+ {
+  "title": "Sports Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/ead/athens-2004-olympic-stadium-1552215.jpg"
+ },
+ {
+  "title": "Strength Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/2ef/wild-animal-1376626.jpg"
+ },
+ {
+  "title": "Success Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/dfb/rock-climbing-victory-1311719.jpg"
+ },
+ {
+  "title": "Sympathy Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/e80/nature-1312341.jpg"
+ },
+ {
+  "title": "Teacher Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/9b0/historical-school-house-1222138.jpg"
+ },
+ {
+  "title": "Technology Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/e02/chip-closeup-1454093.jpg"
+ },
+ {
+  "title": "Teen Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/b5b/huddling-for-warmth-1440077.jpg"
+ },
+ {
+  "title": "Thankful Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/fa9/bye-bye-sun-1314506.jpg"
+ },
+ {
+  "title": "Thanksgiving Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/fb9/hand-shake-1241578.jpg"
+ },
+ {
+  "title": "Time Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/145/watch-1486520.jpg"
+ },
+ {
+  "title": "Trust Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/c19/take-my-hand-1314191.jpg"
+ },
+ {
+  "title": "Truth Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/46f/glasses-of-truth-1-1523152.jpg"
+ },
+ {
+  "title": "Valentinesday Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/cdc/roses-for-valentine-1379498.jpg"
+ },
+ {
+  "title": "Wedding Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/9d2/natural-texture-1180555.jpg"
+ },
+ {
+  "title": "Wisdom Quotes",
+  "background": "https://images.freeimages.com/images/small-previews/d3e/colors-in-nature-1174475.jpg"
+ },
+ {
+  "title": "Women Quotes",
+  "background": "https://images.pexels.com/photos/556658/pexels-photo-556658.jpeg"
+ },
+ {
+     "title": "Work Quotes",
+     "background": "https://images.freeimages.com/images/small-previews/c1d/working-2-1570152.jpg"
+ }
+]
+}
