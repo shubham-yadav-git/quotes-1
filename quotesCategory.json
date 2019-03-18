@@ -1,5 +1,9 @@
 {
   "categoryList" : [
+    {
+  "title": "Featured Quotes",
+  "background": "https://images.pexels.com/photos/1558732/pexels-photo-1558732.jpeg"
+ },
  {
   "title": "Age Quotes",
   "background": "https://images.pexels.com/photos/696407/pexels-photo-696407.jpeg"
