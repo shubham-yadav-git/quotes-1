@@ -1,4 +1,5 @@
-[
+{
+"FeaturedQuotes" :[
  {
   "quote": {
    "text": "Time you enjoy wasting is not wasted time."
@@ -5280,3 +5281,4 @@
   }
  }
 ]
+}
